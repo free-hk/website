@@ -1,0 +1,114 @@
+{
+    "channel": {
+      "title": "香港人抗爭日程",
+      "link": "https://freehk.page/json/upcoming_event.json",
+      "description": "將會舉行的活動",
+      "language": "zh-HK",
+      "pubDate": "Tue, 30 Jul 2019 09:00:00 +0800",
+      "lastBuildDate": "Tue, 30 Jul 2019 09:00:00 +0800",
+      "item": [
+        {
+          "title": "荃葵青大遊行",
+          "description": "集合時間詳情、路線詳情容後公布",
+          "pubDate": "Sun, 18 Aug 2019 00:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "AE05821A-5E8E-4C74-95B6-0DFB4033473F"
+          }
+        },
+        {
+          "title": "光復紅土大遊行",
+          "description": "集合時間詳情、路線詳情容後公布",
+          "pubDate": "Sat, 17 Aug 2019 00:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "24AC7D98-680E-47AD-B12F-7AEBDB744172"
+          }
+        },
+        {
+          "title": "港島東大遊行",
+          "description": "集合時間詳情、路線詳情容後公布",
+          "pubDate": "Sun, 11 Aug 2019 00:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "6CEB8E22-6838-467C-9D26-27DD40C8847F"
+          }
+        },
+        {
+          "title": "深水埗大遊行",
+          "description": "集合時間詳情、路線詳情容後公布",
+          "pubDate": "Sun, 11 Aug 2019 00:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "BC502BD7-52A8-41F3-95BC-2466593A66BA"
+          }
+        },
+        {
+          "title": "大埔大遊行",
+          "description": "集合時間詳情、路線詳情容後公布",
+          "pubDate": "Sat, 10 Aug 2019 00:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "C066EC57-8045-43EB-8E4A-566C1A60C0D9"
+          }
+        },
+        {
+          "title": "全港大三罷、大塞車",
+          "description": "七區集會：沙田、荃灣、屯門、黃大仙、大埔、旺角、金鐘",
+          "pubDate": "Mon, 05 Aug 2019 00:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "02141092-D2B0-4D52-86E8-BAFDEA9F7147"
+          }
+        },
+        {
+          "title": "港島西大遊行",
+          "description": "<p>16:00集合\n<br />科士街臨時遊樂場至中山紀念館</p>",
+          "pubDate": "Sun, 04 Aug 2019 16:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "4619DC26-1649-401F-B217-90151C6C6933"
+          }
+        },
+        {
+          "title": "將軍澳大遊行",
+          "description": "<p>13:30集合\n<br />寶翠公園至單車館公園</p>",
+          "pubDate": "Sun, 04 Aug 2019 13:30:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "7E536F66-C17E-4CAC-9E06-66025D311FC4"
+          }
+        },
+        {
+          "title": "旺角再遊行",
+          "description": "<p>14:00\n<br />路線詳情容後公布</p>",
+          "pubDate": "Sat, 03 Aug 2019 14:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "D7FB8723-75B4-4201-954C-D72A09E18F4A"
+          }
+        },
+        {
+          "title": "公務員集會",
+          "description": "<p>19:00-21:00\n<br />中環遮打花園</p>",
+          "pubDate": "Fri, 02 Aug 2019 19:00:00 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "8F1305B7-A46A-4DFD-9467-6BA1D1783795"
+          }
+        },
+        {
+          "title": "港鐡不合作運動＋罷工",
+          "description": "<p>07:30\n<br />調景嶺站\n<br />全港大塞車</p>",
+          "pubDate": "Tue, 30 Jul 2019 10:33:20 +0800",
+          "guid": {
+            "_isPermaLink": "false",
+            "__text": "4D1436CD-AEDF-41BF-A7FE-F38A763394FC"
+          }
+        }
+      ]
+    },
+    "_xmlns:atom": "http://www.w3.org/2005/Atom",
+    "_version": "2.0"
+  }
+  
