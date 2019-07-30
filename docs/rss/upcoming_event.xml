@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>香港人抗爭日程</title>
-        <link>http://github.com</link>
+        <link>https://freehk.page/rss/upcoming_event.xml</link>
         <description>將會舉行的活動</description>
         <language>zh-HK</language>
         <pubDate>Tue, 30 Jul 2019 09:00:00 +0800</pubDate>
