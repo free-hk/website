@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>香港人抗爭日程</title>
+        <link>http://github.com</link>
+        <description>將會舉行的活動</description>
+        <language>zh-HK</language>
+        <pubDate>Tue, 30 Jul 2019 09:00:00 +0800</pubDate>
+        <lastBuildDate>Tue, 30 Jul 2019 09:00:00 +0800</lastBuildDate>
+        <item>
+            <title>荃葵青大遊行</title>
+            <description><![CDATA[集合時間詳情、路線詳情容後公布]]></description>
+            <pubDate>Sun, 18 Aug 2019 00:00:00 +0800</pubDate>
+            <guid isPermaLink="false">AE05821A-5E8E-4C74-95B6-0DFB4033473F</guid>
+        </item>
+        <item>
+            <title>光復紅土大遊行</title>
+            <description><![CDATA[集合時間詳情、路線詳情容後公布]]></description>
+            <pubDate>Sat, 17 Aug 2019 00:00:00 +0800</pubDate>
+            <guid isPermaLink="false">24AC7D98-680E-47AD-B12F-7AEBDB744172</guid>
+        </item>
+        <item>
+            <title>港島東大遊行</title>
+            <description><![CDATA[集合時間詳情、路線詳情容後公布]]></description>
+            <pubDate>Sun, 11 Aug 2019 00:00:00 +0800</pubDate>
+            <guid isPermaLink="false">6CEB8E22-6838-467C-9D26-27DD40C8847F</guid>
+        </item>
+        <item>
+            <title>深水埗大遊行</title>
+            <description><![CDATA[集合時間詳情、路線詳情容後公布]]></description>
+            <pubDate>Sun, 11 Aug 2019 00:00:00 +0800</pubDate>
+            <guid isPermaLink="false">BC502BD7-52A8-41F3-95BC-2466593A66BA</guid>
+        </item>
+        <item>
+            <title>大埔大遊行</title>
+            <description><![CDATA[集合時間詳情、路線詳情容後公布]]></description>
+            <pubDate>Sat, 10 Aug 2019 00:00:00 +0800</pubDate>
+            <guid isPermaLink="false">C066EC57-8045-43EB-8E4A-566C1A60C0D9</guid>
+        </item>
+        <item>
+            <title>全港大三罷、大塞車</title>
+            <description><![CDATA[七區集會：沙田、荃灣、屯門、黃大仙、大埔、旺角、金鐘]]></description>
+            <pubDate>Mon, 05 Aug 2019 00:00:00 +0800</pubDate>
+            <guid isPermaLink="false">02141092-D2B0-4D52-86E8-BAFDEA9F7147</guid>
+        </item>
+        <item>
+            <title>港島西大遊行</title>
+            <description><![CDATA[<p>16:00集合
+<br />科士街臨時遊樂場至中山紀念館</p>]]></description>
+            <pubDate>Sun, 04 Aug 2019 16:00:00 +0800</pubDate>
+            <guid isPermaLink="false">4619DC26-1649-401F-B217-90151C6C6933</guid>
+        </item>
+        <item>
+            <title>將軍澳大遊行</title>
+            <description><![CDATA[<p>13:30集合
+<br />寶翠公園至單車館公園</p>]]></description>
+            <pubDate>Sun, 04 Aug 2019 13:30:00 +0800</pubDate>
+            <guid isPermaLink="false">7E536F66-C17E-4CAC-9E06-66025D311FC4</guid>
+        </item>
+        <item>
+            <title>旺角再遊行</title>
+            <description><![CDATA[<p>14:00
+<br />路線詳情容後公布</p>]]></description>
+            <pubDate>Sat, 03 Aug 2019 14:00:00 +0800</pubDate>
+            <guid isPermaLink="false">D7FB8723-75B4-4201-954C-D72A09E18F4A</guid>
+        </item>
+        <item>
+            <title>公務員集會</title>
+            <description><![CDATA[<p>19:00-21:00
+<br />中環遮打花園</p>]]></description>
+            <pubDate>Fri, 02 Aug 2019 19:00:00 +0800</pubDate>
+            <guid isPermaLink="false">8F1305B7-A46A-4DFD-9467-6BA1D1783795</guid>
+        </item>
+        <item>
+            <title>港鐡不合作運動＋罷工</title>
+            <description><![CDATA[<p>07:30
+<br />調景嶺站
+<br />全港大塞車</p>]]></description>
+            <pubDate>Tue, 30 Jul 2019 10:33:20 +0800</pubDate>
+            <guid isPermaLink="false">4D1436CD-AEDF-41BF-A7FE-F38A763394FC</guid>
+        </item>
+    </channel>
+</rss>
